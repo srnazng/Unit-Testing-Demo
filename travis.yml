@@ -4,4 +4,4 @@ python:
   - "3.8.3"
 
 script:
-  - python -m pytest
+  - python -m pytest # run tests
